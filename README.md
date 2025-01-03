@@ -1,4 +1,4 @@
-# ✈️ Travel Economy Visualization Project
+# ✈️ Economic Crises of Tourist-Dependent Countries
 
 ## 📝 **Project Description**
 

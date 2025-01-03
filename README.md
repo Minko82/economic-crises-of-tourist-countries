@@ -28,9 +28,21 @@ View **Data** folder for more details.
   - Unemployment Rates (%)
   - GDP (in USD)
   - Tourism Spending (as % of GDP)
-- **Geographic Data:** GeoJSON files sourced from [Natural Earth Data](https://www.naturalearthdata.com/).
+- **Geographic Data:** GeoJSON files sourced from [Natural Earth Data](https://www.naturalearthdata.com/)
 - **Additional Economic Indicators:** Aggregated from various country reports and statistical databases.
 
+
+<br>
+
+---
+
+## 💻 **Tools and Technologies**
+- Python
+- Altair
+- Pandas
+- GeoJSON
+- Illustrator
+- ArcGIS
 
 <br>
 

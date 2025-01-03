@@ -10,11 +10,29 @@ Explore and compare tourism-driven economies (like the Maldives and Fiji) by ana
 
 ## 🎨 **Visualizations**
 
-- **Scatter Plot**: Tourism arrivals vs. unemployment rates to reveal economic dependencies.
-- **Choropleth Map**: Tourism spending across countries, showcasing regional disparities.
-- **Line Chart**: GDP growth trends over time, highlighting tourism-driven spikes.
-- **Bar Chart**: Country-wise analysis of tourism as a percentage of GDP.
-- **Interactive Filters**: Dropdown menus and linked brushing for granular data exploration.
+### 1. GDP Visualization
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7fcfb1db-aabd-4aa5-9d60-d78f6bf158f7" alt="GDP Visualization" width="70%">
+</p>
+
+### 2. Unemployment vs Arrivals
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4777f218-e4e9-45ab-9dae-147e141ba619" alt="Unemployment vs Arrivals" width="70%">
+</p>
+
+
+### 3. Metrics Over Time
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5ef9899-0c79-485f-81c4-0b91391f37f2" alt="Metrics Over Time" width="70%">
+</p>
+
+
+### 4. Country Comparisons
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15efc149-4ab9-4aca-8eb4-cc000153f4ad" alt="Country Comparisons" width="70%">
+</p>
+
+
 
 <br>
 

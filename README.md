@@ -22,12 +22,15 @@ Explore and compare tourism-driven economies (like the Maldives and Fiji) by ana
 
 ## 📂 **Dataset**
 
-- **Metrics**:
-  - Number of Arrivals.
-  - Unemployment Rates (%).
-  - GDP (in USD).
-  - Tourism Spending (as % of GDP).
-  
+View **Data** folder for more details.
+- **Tourism and Economic Metrics:** The dataset is sourced from [World Bank Open Data](https://data.worldbank.org/)
+  - Number of Arrivals
+  - Unemployment Rates (%)
+  - GDP (in USD)
+  - Tourism Spending (as % of GDP)
+- **Geographic Data:** GeoJSON files sourced from [Natural Earth Data](https://www.naturalearthdata.com/).
+- **Additional Economic Indicators:** Aggregated from various country reports and statistical databases.
+
 
 <br>
 

@@ -1,8 +1,8 @@
-# ✈️ Economic Crises of Tourist-Dependent Countries
+# ✈️ **Data Visualization**: Economic Crises of Tourist-Dependent Countries
 
 ## 📝 **Project Description**
 
-Explore and compare tourism-driven economies (like the Maldives and Fiji) by analyzing key metrics, further revealing insights into economic sustainability and dependency on tourism.
+This project is a Python script that visualizes and compares tourism-driven economies—such as the Maldives, Fiji, and others—using key economic indicators. It analyzes data to reveal patterns in **economic sustainability**, **tourism dependency**, and **crisis vulnerability**, leveraging visual tools to make insights clear and compelling.
 
 <br>
 
